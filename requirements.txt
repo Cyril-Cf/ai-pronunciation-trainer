@@ -16,3 +16,4 @@ sqlalchemy
 transformers
 sentencepiece
 ortools==9.2.9972
+numpy<1.20
